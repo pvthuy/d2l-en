@@ -1,3 +1,5 @@
+**Finished version 0.7.1 (May 12th 2020), 19 chapters**
+
 # Dive into Deep Learning (D2L Book)
 
 [![Build Status](http://ci.d2l.ai/job/d2l-en/job/master/badge/icon)](http://ci.d2l.ai/job/d2l-en/job/master/)
